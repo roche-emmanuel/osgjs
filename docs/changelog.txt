@@ -1,0 +1,3 @@
+== OSG.JS release v0.8.1 - ??? ==
+
+- Added compilation result for osg 0.8.0

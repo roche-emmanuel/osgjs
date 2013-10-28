@@ -31,6 +31,13 @@ npm install -g grunt-cli
 cd osgjs && npm install
 ```
 
+If you have a problem on windows with the installation of the phantomjs package (version 1.9.2), you may try:
+
+```bash
+cd osgjs
+npm install phantomjs@1.9.2-1
+npm install
+```
 
 Make sure you have `grunt` installed by testing:
 
